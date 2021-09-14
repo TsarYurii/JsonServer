@@ -38,21 +38,5 @@
     "street" : "Vova st.",
     "city" : "Vladimir",
     "zip" : "Zip?"
-  },
-  {
-    "id" : 6,
-    "name" : "Goga",
-    "email" : "goga@mail.com",
-    "street" : "Goga st.",
-    "city" : "Goga-city",
-    "zip" : "Zip?"
-  },
-  {
-    "id" : 7,
-    "name" : "Leha",
-    "email" : "leha@mail.com",
-    "street" : "Leha st.",
-    "city" : "Lehansk",
-    "zip" : "Zip?"
   }
 ]
