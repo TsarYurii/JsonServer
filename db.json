@@ -1,0 +1,58 @@
+[
+  {
+    "id" : 1,
+    "name" : "Petya",
+    "email" : "petya@mail.com",
+    "street" : "Petya st.",
+    "city" : "Petyaburg",
+    "zip" : "Zip?"
+  },
+  {
+    "id" : 2,
+    "name" : "Vasya",
+    "email" : "vasya@mail.com",
+    "street" : "Vasya st.",
+    "city" : "Vasylov",
+    "zip" : "Zip?"
+  },
+  {
+    "id" : 3,
+    "name" : "Sasha",
+    "email" : "sasha@mail.com",
+    "street" : "Sasga st.",
+    "city" : "Alexandersk",
+    "zip" : "Zip?"
+  },
+  {
+    "id" : 4,
+    "name" : "Fedya",
+    "email" : "fedya@mail.com",
+    "street" : "Fedya st.",
+    "city" : "Fedyansk",
+    "zip" : "Zip?"
+  },
+  {
+    "id" : 5,
+    "name" : "Vova",
+    "email" : "vova@mail.com",
+    "street" : "Vova st.",
+    "city" : "Vladimir",
+    "zip" : "Zip?"
+  },
+  {
+    "id" : 6,
+    "name" : "Goga",
+    "email" : "goga@mail.com",
+    "street" : "Goga st.",
+    "city" : "Goga-city",
+    "zip" : "Zip?"
+  },
+  {
+    "id" : 7,
+    "name" : "Leha",
+    "email" : "leha@mail.com",
+    "street" : "Leha st.",
+    "city" : "Lehansk",
+    "zip" : "Zip?"
+  }
+]
