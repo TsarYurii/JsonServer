@@ -39,6 +39,30 @@
     "street" : "Vova st.",
     "city" : "Vladimir",
     "zip" : "Zip?"
-  }
+  },
+  {
+    "id" : 6,
+    "name" : "Nurlan",
+    "email" : "nurlan123@mail.com",
+    "street" : "Fedya st.",
+    "city" : "Fedyansk",
+    "zip" : "Zip?"
+  },
+  {
+    "id" : 7,
+    "name" : "Habib",
+    "email" : "hrgd@mail.com",
+    "street" : "Fedya st.",
+    "city" : "Fedyansk",
+    "zip" : "Zip?"
+  },
+  {
+    "id" : 8,
+    "name" : "Tolik",
+    "email" : "tol_yan@mail.com",
+    "street" : "Tolik st.",
+    "city" : "Toliatti",
+    "zip" : "Zip?"
+  },
 ]
 }
